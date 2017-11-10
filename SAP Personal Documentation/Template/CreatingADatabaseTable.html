@@ -1,0 +1,111 @@
+<h3 data-toggle="collapse" data-target="#CreatingADatabaseTable">Creating A Database Table</h3>
+<div class="row collapse" id="CreatingADatabaseTable">
+    <div class="col-xs-12">
+        <img src="../Image/image3.PNG" style="width: 50%; height: 50%" />
+        <div class="basic-text">Add table name to Database table field. Press Create. Database tables created by me will start with either Y or Z depending on the defined namespace.</div>  
+    </div>
+</div>
+
+<h3 data-toggle="collapse" data-target="#AddFieldsToDatabaseTable">Add Fields to Database Table</h3>
+<div class="row collapse" id="AddFieldsToDatabaseTable">
+    <div class="col-xs-12">
+        <img src="../Image/image4.PNG" style="width: 50%; height: 50%" />
+        <div class="basic-text">Click the Field tab to begin adding fields.
+        Every SAP database table must contain the field called CLIENT.
+        It is always a key field with the data element MANDT.
+        </div>
+        <div class="row">
+            <div class="col-xs-6">
+                <img src="../Image/image5.PNG" style="width: 90%; height: 90%" />
+            </div>
+            <div class="col-xs-6">
+                <img src="../Image/image6.PNG" style="width: 75%; height: 75%" />
+            </div>
+        </div>
+        <div class="basic-text">To create your own fields, begin by typing the field name column in the next row. SAP database fields differ 
+        from other types of databases by abstracting the type of the field by using a data element. Type in the name of 
+        the data element to make use of forward navigation.</div>
+        <div class="row">
+            <div class="col-xs-6">
+                <img src="../Image/image7.PNG" style="width: 100%; height: 100%" />
+            </div>
+            <div class="col-xs-6">
+                <img src="../Image/image8.PNG" style="width: 100%; height: 100%" />
+            </div>
+        </div>
+        <div class="basic-text">
+            Fill out the short text field with a description of the data element. Generally, you'll want to create an elementary type with
+            a domain. We'll have to create as domain as well. For consistency, it may be a good idea to name the domain exactly the same as 
+            the data element. Before we finish creating the data element, we have to create the domain. Double click the domain name to use 
+            forward navigation to create it.
+        </div>
+
+        <img src="../Image/image9.PNG" style="width: 50%; height: 50%" />
+        <div class="basic-text">
+            The domain is finally the representation of what the field actually is. Fill out the Short text field to describe what the domain
+            is. Fill out fields Data type, No. characters, Decimal places, and Output length. After filling out the Data type field, a string
+            is populated to the right, which is a signal that the data type is recognized.
+        </div>
+
+        <img src="../Image/image10.PNG" style="width: 50%; height: 50%" />
+        <div class="basic-text">
+            While working on the domain, you can specific valid values of the database field using the Value range tab. If a user attempts to
+            enter a value that is not within the specified value range, the user will get an error message. There are three different ways to
+            specify valid values: single values, intervals, and a value table.
+        </div>
+
+        <div class="row">
+            <div class="col-xs-6">
+                <div class="col-xs-12">
+                    <img src="../Image/image11.PNG" style="width: 100%; height: 100%" />
+                </div>
+                <div class="col-xs-12" style="padding-top:10px;">
+                    <img src="../Image/image12.PNG" style="width: 100%; height: 100%" />
+                </div>
+            </div>
+            <div class="col-xs-6">
+                <img src="../Image/image13.PNG" style="width: 100%; height: 100%" />
+            </div>
+        </div>
+        <div class="basic-text">
+            Click the save button once you are done. You'll have to activate it to to make use of the domain in your data element. When
+            presented with the activate screen, highlight the domain and press the Continue button as displayed in the screenshot.
+        </div>
+
+        <img src="../Image/image14.PNG" style="width: 50%; height: 50%" />
+        <div class="basic-text">
+            You'll need to go back to the data element screen. To do so, press the back button or F3.
+        </div>
+
+        <img src="../Image/image15.PNG" style="width: 50%; height: 50%" />
+        <div class="basic-text">
+            On the data element screen, we need to set up the field labels. Go to the Field label tab. Here we can specify what this database
+            field would look like if we wanted to display it on a form. After inserting all of the Field labels, pressing enter in one of the
+            input boxes would automatically populate the length field. Once finished, save and activate the data element.
+        </div>
+
+
+
+    </div>
+</div>
+
+<h3 data-toggle="collapse" data-target="#SetTechnicalSettings">Set Technical Settings of Database Table</h3>
+<div class="row collapse" id="SetTechnicalSettings">
+
+    <div class="row">
+        <div class="col-xs-6">
+            <img src="../Image/image16.PNG" style="width: 75%; height: 75%" />
+        </div>
+        <div class="col-xs-6">
+            <img src="../Image/image17.PNG" style="width: 75%; height: 75%" />
+        </div>
+    </div>
+    <div class="basic-text">
+        Lastly, we should set up the technical settings of the database table.
+    </div>
+
+    <img src="../Image/image18.PNG" style="width: 50%; height: 50%" />
+    <div class="basic-text">
+        Clicking the button on the Data class field opens up another menu. Generally, we want to choose APPL0 (the first option).
+    </div>
+</div>
