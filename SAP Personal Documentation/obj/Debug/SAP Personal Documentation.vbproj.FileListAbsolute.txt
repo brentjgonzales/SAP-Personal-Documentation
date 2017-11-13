@@ -17,3 +17,22 @@ c:\users\bgonzales\documents\visual studio 2015\Projects\SAP Personal Documentat
 c:\users\bgonzales\documents\visual studio 2015\Projects\SAP Personal Documentation\SAP Personal Documentation\obj\Debug\SAP Personal Documentation.dll
 c:\users\bgonzales\documents\visual studio 2015\Projects\SAP Personal Documentation\SAP Personal Documentation\obj\Debug\SAP Personal Documentation.xml
 c:\users\bgonzales\documents\visual studio 2015\Projects\SAP Personal Documentation\SAP Personal Documentation\obj\Debug\SAP Personal Documentation.pdb
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\csc.exe
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\vbc.exe
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\SAP Personal Documentation.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\SAP Personal Documentation.pdb
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\bin\SAP Personal Documentation.xml
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\obj\Debug\SAP Personal Documentation.vbprojResolveAssemblyReference.cache
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\obj\Debug\SAP Personal Documentation.dll
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\obj\Debug\SAP Personal Documentation.xml
+C:\Users\bgonzales.PANGO\Documents\Visual Studio 2015\Projects\SAP-Personal-Documentation\SAP Personal Documentation\obj\Debug\SAP Personal Documentation.pdb

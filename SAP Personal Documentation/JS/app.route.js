@@ -7,16 +7,13 @@ app.config(function($routeProvider) {
 	.when("/DataDictionary", {
         templateUrl : "template/DataDictionary.html"
 	})
-    .when("/CreatingADatabaseTable", {
-        templateUrl: "template/CreatingADatabaseTable.html"
+    .when("/DatabaseTables", {
+        templateUrl: "template/DatabaseTables.html"
+    })
+    .when("/CreateProgram", {
+        templateUrl: "template/CreateProgram.html"
+    })
+    .when("/ABAPSyntax", {
+        templateUrl: "template/ABAPSyntax.html"
     });
-    //.when("/red", {
-    //    templateUrl : "red.htm"
-    //})
-    //.when("/green", {
-    //    templateUrl : "green.htm"
-    //})
-    //.when("/blue", {
-    //    templateUrl : "blue.htm"
-    //});
 });
